@@ -6,4 +6,4 @@ I am a 3<sup>rd</sup> year student at the University of Nebraska, Lincoln studyi
 
 :beginner: I’m beginning my studies in Machine Learning, the Ethics of Big Data, and Discriminatory Algorithms
 
-:black_nib: Visit my [personal website](kgerot.github.io) to see my current analysis of papers and articles on various computer and data science topics.
+:black_nib: Visit my [personal website](https://kgerot.github.io) to see my current analysis of papers and articles on various computer and data science topics.
