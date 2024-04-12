@@ -12,7 +12,7 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 ---
 
 <p align="center">
-  <img alt="Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&layout=compact&show_icons=false&theme=onedark&hide_border=true&bg_color=00000000" width="57%">
+<!--   <img alt="Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&layout=compact&show_icons=false&theme=onedark&hide_border=true&bg_color=00000000" width="57%"> -->
   <img alt="Programming Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&layout=compact&theme=onedark&hide_border=true&langs_count=8&bg_color=00000000" width="42%">
 </p>
 
