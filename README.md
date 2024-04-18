@@ -5,7 +5,7 @@
 I have a dual Bachelor's in Computer Science and Mathematics with a minor in Statistics. I currently attend the University of Minnesota---pursuing a Master's in Statistics and participating in the [DSMMA Training Program](https://dsmma.umn.edu/). My computer-aligned hobbies are data ethics and esoteric languages. Of course, I use R a lot now that I've moved further into statistics from computer science.
 
 <img src="https://komarev.com/ghpvc/?username=kgerot" alt="" width="0.5px"/>
-<!-- <p align="center"><img alt="Website" src="https://img.shields.io/badge/%E2%9E%A4%20Website-kgerot%2egithub%2eio-181b20?labelColor=449993&style=for-the-badge" width="250px"></p> -->
+<p align="center"><img alt="Website" src="https://img.shields.io/badge/%E2%9E%A4%20Website-kgerot%2egithub%2eio-181b20?labelColor=449993&style=for-the-badge" width="250px"></p>
 
 <!-- [![Website](https://img.shields.io/badge/Website-kgerot%2egithub%2eio-181b20?logo=githubsponsors&logoColor=white&labelColor=449993&style=for-the-badge)](https://kgerot.github.io) -->
 
