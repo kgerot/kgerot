@@ -2,7 +2,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kgerot&theme=onedark&margin-w=6&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" alt="Github trophies">
 </p>
 
-I have a dual Bachelor's in Computer Science and Mathematics with a minor in Statistics. I currently attend the University of Minnesota---pursuing a Master's in Statistics and participating in the [DSMMA Training Program](https://dsmma.umn.edu/). My computer-aligned hobbies are data ethics and esoteric languages. Of course, I use R a lot now that I've moved further into statistics from computer science.
+I have a dual Bachelor's in Computer Science and Mathematics with a minor in Statistics. I currently attend the University of Minnesota---pursuing a Master's in Statistics and participating in the [DSMMA Training Program](https://dsmma.umn.edu/). My computer-aligned hobbies are data ethics and esoteric languages.
 
 <img src="https://komarev.com/ghpvc/?username=kgerot" alt="" width="0.5px"/>
 <a href="https://kgerot.github.io" target="_blank"><p align="center"><img alt="Website" src="https://img.shields.io/badge/%E2%9E%A4%20Website-kgerot%2egithub%2eio-181b20?labelColor=449993&style=for-the-badge" width="250px"></p></a>
@@ -11,12 +11,44 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 
 ---
 
-<p align="center">
-<!--   <img alt="Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&layout=compact&show_icons=false&theme=onedark&hide_border=true&bg_color=00000000" width="57%"> -->
-  <img alt="Programming Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&theme=onedark&hide_border=true&langs_count=8&bg_color=00000000" width="42%">
-</p>
 
-<!-- ![Profile Statistics](https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000) ![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&layout=compact&theme=onedark&hide_border=true&langs_count=9&bg_color=00000000) -->
+<!-- <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true#gh-light-mode-only)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+![Profile Statistics](https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true#gh-dark-mode-only)
+![Profile Statistics](https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true#gh-light-mode-only) -->
+
+<p align="center">
+  <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=kgerot&count_private=true&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true" height="220px"/>
+  </picture>
+  <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&theme=dark&layout=compact&bg_color=00000000&private=true&size_weight=0.6&count_weight=0.4&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&theme=default&layout=compact&bg_color=00000000&private=true&size_weight=0.6&count_weight=0.4&hide_border=true&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="Programming Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgerot&theme=dark&layout=compact&bg_color=00000000&private=true&size_weight=0.6&count_weight=0.4&hide_border=true&langs_count=8" height="220px"/>
+  </picture>
+  <!--<picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=dark&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="Wakatime Language Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" width="600px"/>
+  </picture>-->
+<picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=dark&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="Wakatime Language Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" width="600px"/>
+  </picture>
+</p>
 
 ---
 
@@ -29,7 +61,7 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-181b20?logo=tensorflow&logoColor=FF9F00&labelColor=404f66&style=flat-square)
 ![C](https://img.shields.io/badge/-C%20Language-181b20?logo=c&logoColor=A8B9CC&labelColor=1476b4&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-181b20?logo=cplusplus&logoColor=ffffff&labelColor=004283&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-181b20?logo=C%20Sharp&logoColor=ffffff&labelColor=a179dc&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-181b20?logo=C%23&logoColor=ffffff&labelColor=a179dc&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML5-181b20?logo=HTML5&logoColor=ffffff&labelColor=E54C21&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-181b20?logo=CSS3&logoColor=ffffff&labelColor=3160a1&style=flat-square)
 ![JS](https://img.shields.io/badge/-Javascript-181b20?logo=javascript&labelColor=31312f&logoColor=ebd64d&style=flat-square)
@@ -39,7 +71,6 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 ![React](https://img.shields.io/badge/-React-181b20?logo=React&logoColor=61DAFB&labelColor=33373f&style=flat-square)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-181b20?logo=jekyll&logoColor=d70000&labelColor=ffffff&style=flat-square)
 ![AutoHotkey](https://img.shields.io/badge/-AutoHotkey-181b20?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABkAAAAfCAMAAAAlbpZMAAAAV1BMVEVHcEz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8egqRXAAAAHHRSTlMAB%2FDB%2Bt7N6CX1%2Fh4PQ9cWnDu4VXw1YE6Rrm4sm0TPMQAAAMZJREFUKM%2Bt0tkOhCAMBdDKJqAo7lv%2F%2FzunZjBR7Msk08d7QnNJCouUAbKx0m8tNIiyzmREVDN4RF29BSMg%2BtJmMnv0kgRfEhRiA4qRSVAIjpGjpAqsWBJkpdL%2FlLZhpWjtkDWgqJvH2JvS%2BSQi2HCL0pyi9CO6ROSJEtq4U8pHtK37MFW2SeK%2F0TJVdXFrTSKGK3r855Qj%2B2ltLulY0T9JIZM4XqiGC6wYTvokamGFHvohP%2Bz1vJ3IbAMb%2Bx0mo2J%2B8bSvgA%2FdAhv4X5w%2F%2FwAAAABJRU5ErkJggg%3D%3D&labelColor=2eb42d&logoColor=ffffff&style=flat-square&logoWidth=10)
-![AngularJS](https://img.shields.io/badge/-AngularJS-181b20?logo=angularjs&logoColor=b3b3b3&labelColor=a6120d&style=flat-square)
 ![MeteorJS](https://img.shields.io/badge/-MeteorJS-181b20?logo=meteor&logoColor=DE4F4F&labelColor=1b2448&style=flat-square)
 ![PHP](https://img.shields.io/badge/-php-181b20?logo=php&logoColor=ffffff&labelColor=7a86b8&style=flat-square)
 ![LaTeX](https://img.shields.io/badge/-TeX%2FLateX-181b20?logo=latex&logoColor=eeece5&labelColor=008080&style=flat-square)
@@ -53,7 +84,7 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 
 <p align="center"><b>Software & Tools</b></p>
 
-![Gitlab](https://img.shields.io/badge/-Gitlab-181b20?logo=GitLab&logoColor=5E4234&labelColor=ffffff&style=flat-square)
+![Gitlab](https://img.shields.io/badge/-Gitlab-181b20?logo=GitLab&logoColor=f05435&labelColor=ffffff&style=flat-square)
 ![Github](https://img.shields.io/badge/-Github-181b20?logo=github&logoColor=ffffff&labelColor=000000&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-181b20?logo=figma&logoColor=ffffff&labelColor=000000&style=flat-square)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-181b20?logo=microsoftazure&logoColor=ffffff&labelColor=0078D4&style=flat-square)
@@ -61,7 +92,7 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-181b20?logo=githubactions&logoColor=ffffff&labelColor=2066FF&style=flat-square)
 ![TravisCI](https://img.shields.io/badge/-Travis%20CI-181b20?logo=travisci&logoColor=cb3349&labelColor=ffde59&style=flat-square)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-181b20?logo=insomnia&logoColor=DED6D6&labelColor=270075&style=flat-square)
-![npm](https://img.shields.io/badge/-npm-181b20?logo=npm&labelColor=cb0000&logoColor=cb0000&style=flat-square)
+![npm](https://img.shields.io/badge/-npm-181b20?logo=npm&labelColor=cb0000&logoColor=ffffff&style=flat-square)
 ![nuget](https://img.shields.io/badge/-nuget-181b20?logo=nuget&logoColor=004880&labelColor=ffffff&style=flat-square)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181b20?logo=anaconda&logoColor=019733&labelColor=15213a&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-181b20?logo=git&logoColor=f84e28&labelColor=efefe7&style=flat-square)
