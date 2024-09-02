@@ -2,8 +2,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kgerot&theme=onedark&margin-w=6&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" alt="Github trophies">
 </p>
 
-I have a dual Bachelor's in Computer Science and Mathematics with a minor in Statistics. I currently attend the University of Minnesota---pursuing a Master's in Statistics and participating in the [DSMMA Training Program](https://dsmma.umn.edu/). My computer-aligned hobbies are data ethics and esoteric languages.
-
+I have a dual Bachelor's in Computer Science and Mathematics and an MS in Statistics. I enjoy esoteric languages and random programming projects
 <img src="https://komarev.com/ghpvc/?username=kgerot" alt="" width="0.5px"/>
 <a href="https://kgerot.github.io" target="_blank"><p align="center"><img alt="Website" src="https://img.shields.io/badge/%E2%9E%A4%20Website-kgerot%2egithub%2eio-181b20?labelColor=449993&style=for-the-badge" width="250px"></p></a>
 
@@ -46,7 +45,7 @@ I have a dual Bachelor's in Computer Science and Mathematics with a minor in Sta
 <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=dark&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: dark)"/>
       <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img alt="Wakatime Language Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" width="600px"/>
+<!--     <img alt="Wakatime Language Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=kgerot&theme=default&bg_color=00000000&hide_border=true&layout=compact&custom_title=Time%20Spent%20%28last%207%20days%29" width="600px"/> -->
   </picture>
 </p>
 
